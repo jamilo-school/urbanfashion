@@ -55,7 +55,6 @@ h1,h2{
     background: linear-gradient(45deg,#3059b3,#ff77cd,#6a5863,#ff77cd,#200617);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-
 }
 .nav-menu{
     position: fixed;
