@@ -221,7 +221,7 @@ nav ul li a{
     }
     .navbar{
        display: block;
-       height: 35%;
+       height: 30%;
         position: fixed;
         left: -800%;
         top: 60px;
