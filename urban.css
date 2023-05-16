@@ -221,7 +221,7 @@ nav ul li a{
     }
     .navbar{
        display: block;
-       height: 20%;
+       height: 25%;
         position: fixed;
         left: -800%;
         top: 60px;
@@ -236,7 +236,7 @@ nav ul li a{
 
     }
     .header-style{
-        top: 160px;
+        top: 170px;
         position: fixed;
         left: 10px;
         border: solid 2px lemonchiffon;
