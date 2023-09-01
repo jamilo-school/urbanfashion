@@ -225,7 +225,8 @@ nav ul li a{
     width: 25px;
     height: 5px;
     margin: 3px;
-    background: linear-gradient(45deg,#87adfe,#ff77cd);}
+    background: linear-gradient(45deg,#87adfe,#ff77cd);
+}
 @media (max-width:768px){
     body{
         height: 100vh;
